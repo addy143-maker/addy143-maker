@@ -23,6 +23,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=addy143-maker&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=addy&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
 
