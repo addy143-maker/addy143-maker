@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 # 💫 About Me:
 🔭 I’m currently working on python and SQL<br>👯 I’m looking to collaborate on python projects<br>🌱 I’m currently learning SQL and Cloud Technology <br>💬 Ask me about <br>
 
@@ -24,4 +25,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=addy143-maker&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
