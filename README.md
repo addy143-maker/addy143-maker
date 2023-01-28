@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on python and SQL<br>👯 I’m looking to collaborate on python projects<br>🌱 I’m currently learning SQL and Cloud Technology <br>💬 Ask me about <br>
+🔭 I’m currently working on python and SQL<br>👯 I’m looking to collaborate on python projects<br>🌱 I’m currently learning SQL and Cloud Technology <br>💬 Ask me about new technology in the world <br>
 
 
 ## 🌐 Socials:
